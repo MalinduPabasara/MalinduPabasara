@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Malindu Pabasara
+
+  - 🌱 I’m currently learning React Native
 
 <!--
 **MalinduPabasara/MalinduPabasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
