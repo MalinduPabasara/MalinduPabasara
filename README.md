@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hi 👋, I'm Malindu Pabasara🧔</h1>
-<h3 align="center">A passionate Software developer ✌</h3>
+<h3 align="center">A Software developer ✌</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🌱 I’m currently learning **React Native**
@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/malindu-pabasara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malindu pabasara" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12922856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12922856" height="30" width="40" /></a>
 <a href="https://instagram.com/m_pabasara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_pabasara" height="30" width="40" /></a>
-<a href="https://medium.com/@info.malindu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@info.malindu4" height="30" width="40" /></a>
+<a href="https://www.facebook.com/alian.red.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@info.malindu4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
